@@ -5,4 +5,4 @@ Few MySQL operation like creating procedure, events, database administration, et
 If you are interested in this application, contact me or my team at nerdprogrammer.in
 or email us at nerdprogrammergm@gmail.com / bhavyashukla@outlook.com  / sohels99@gmail.com
 
-Last but not the least, special thanks to Mr. Bhavya Shukla, Mr. Sohel Shaikh and Mr. Sachin Narkhede.
+Last but not the least, special thanks to Mr. Bhavya Shukla, Mr. Sohel Shaikh and Mr. Sachin Narkhede sir.
